@@ -1,0 +1,21 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore development server files
+.vscode/
+.svelte-kit/
+.svelte/
+
+# Ignore build artifacts
+build/
+dist/
+public/build/
+
+# Ignore environment variables file
+.env
+.env.local
+
+# Ignore log files
+npm-debug.log
+# Ignore Svelte source files
+src/
